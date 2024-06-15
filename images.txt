@@ -8,3 +8,4 @@ nextcloud/aio-talk-recording
 nextcloud/aio-docker-socket-proxy
 nextcloud/aio-fulltextsearch
 nextcloud/aio-onlyoffice
+nextcloud/aio-collabora
