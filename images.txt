@@ -1,11 +1,20 @@
-nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-nextcloud/aio-talk-recording
-nextcloud/aio-docker-socket-proxy
-nextcloud/aio-fulltextsearch
 nextcloud/aio-onlyoffice
+nextcloud/aio-postgresql
+nextcloud/aio-borgbackup
+nextcloud/aio-apache
+nextcloud/aio-notify-push
+nextcloud/aio-domaincheck
+nextcloud/aio-redis
+nextcloud/aio-clamav
+nextcloud/aio-watchtower
+nextcloud/aio-docker-socket-proxy
 nextcloud/aio-collabora
+nextcloud/all-in-one
+nextcloud/aio-imaginary
+nextcloud/aio-fulltextsearch
+nextcloud/aio-talk-recording
+nextcloud/aio-talk
+nextcloud/aio-nextcloud
+nextcloud/aio-domaincheck
