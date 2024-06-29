@@ -18,3 +18,14 @@ nextcloud/aio-talk-recording
 nextcloud/aio-talk
 nextcloud/aio-nextcloud
 nextcloud/aio-domaincheck
+itzg/minecraft-server
+nginx
+portainer/portainer-ce
+ghcr.io/requarks/wiki:2
+postgres:15-alpine
+postgres:16-alpine
+xhongc/music_tag_web
+zingerbee/serverbee-web
+netdata/netdata
+ghcr.io/linkwarden/linkwarden
+vaultwarden/server
