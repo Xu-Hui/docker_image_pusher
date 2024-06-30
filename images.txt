@@ -29,3 +29,4 @@ zingerbee/serverbee-web
 netdata/netdata
 ghcr.io/linkwarden/linkwarden
 vaultwarden/server
+jc21/nginx-proxy-manager
