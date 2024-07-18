@@ -1,4 +1,5 @@
 nginx
+caddy
 ghcr.io/hoarder-app/hoarder-web
 redis:7.2-alpine
 gcr.io/zenika-hub/alpine-chrome
@@ -22,4 +23,3 @@ nextcloud/aio-watchtower
 nextcloud/aio-talk-recording
 nextcloud/aio-onlyoffice
 nextcloud/aio-docker-socket-proxy
-caddy:alpine
