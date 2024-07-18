@@ -22,3 +22,4 @@ nextcloud/aio-watchtower
 nextcloud/aio-talk-recording
 nextcloud/aio-onlyoffice
 nextcloud/aio-docker-socket-proxy
+caddy:alpine
