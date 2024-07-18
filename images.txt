@@ -3,3 +3,4 @@ redis:7.2-alpine
 gcr.io/zenika-hub/alpine-chrome
 getmeili/meilisearch:v1.6
 ghcr.io/hoarder-app/hoarder-workers:${HOARDER_VERSION:-release}
+nginx
