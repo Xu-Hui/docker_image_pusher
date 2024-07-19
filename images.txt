@@ -1,3 +1,4 @@
+nextcloud
 nginx
 caddy
 ghcr.io/hoarder-app/hoarder-web
