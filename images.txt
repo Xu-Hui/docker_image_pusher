@@ -1,4 +1,4 @@
-mariadb:10.6
+mariadb
 nextcloud
 nginx
 caddy
