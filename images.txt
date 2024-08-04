@@ -1,3 +1,4 @@
+hamsterbase/hamsterbase
 itzg/minecraft-server
 itzg/minecraft-server:java8
 itzg/minecraft-server:java11
