@@ -15,3 +15,5 @@ gcr.io/zenika-hub/alpine-chrome
 getmeili/meilisearch:v1.6
 ghcr.io/hoarder-app/hoarder-workers
 pihole/pihole
+spectado/pocketbase:0.22.10
+goniszewski/grimoire
