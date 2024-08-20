@@ -1,3 +1,4 @@
+koishijs/koishi
 cloudflare/cloudflared:latest
 codeberg.org/readeck/readeck:latest
 hamsterbase/hamsterbase
